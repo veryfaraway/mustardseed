@@ -1,0 +1,37 @@
+# main links links
+main:
+  - title: "Blu-ray"
+    url: /bluray
+
+  - title: "Category"
+    url: /categories
+
+  - title: "Tags"
+    url: /tags
+
+  - title: "Archives"
+    url: /year-archive
+
+category:
+  - title: "Home"
+    url: /
+  - title: "Blu-ray"
+    url: /bluray
+  - title: "Category"
+    url: /categories
+    children:
+      - title: "Films"
+        url: /films
+      - title: "Games"
+        url: /games
+      - title: "Travels"
+        url: /travels
+
+  - title: "Links"
+    children:
+      - title: "겨자씨"
+        url: http://lovelywolf.tistory.com
+      - title: "주경야근"
+        url: http://veryfaraway.github.io/digging
+      - title: "Minimal Mistakes Theme"
+        url: https://mmistakes.github.io/minimal-mistakes/
