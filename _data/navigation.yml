@@ -1,8 +1,5 @@
 # main links links
 main:
-  - title: "Blu-ray"
-    url: /bluray
-
   - title: "Category"
     url: /categories
 
@@ -15,22 +12,22 @@ main:
 category:
   - title: "Home"
     url: /
-  - title: "Blu-ray"
-    url: /bluray
   - title: "Category"
     url: /categories
     children:
-      - title: "Films"
-        url: /films
-      - title: "Games"
-        url: /games
-      - title: "Travels"
-        url: /travels
+      - title: "God is Love"
+        url: /christian
+      - title: "잡동사니"
+        url: /tips
+      - title: "주절주절"
+        url: /chitchat
+      - title: "자린고비"
+        url: /hotdeal
 
   - title: "Links"
     children:
-      - title: "겨자씨"
-        url: http://lovelywolf.tistory.com
+      - title: "3 Buddies"
+        url: http://veryfaraway.github.io/3buddies
       - title: "주경야근"
         url: http://veryfaraway.github.io/digging
       - title: "Minimal Mistakes Theme"
