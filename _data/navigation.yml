@@ -17,18 +17,18 @@ category:
     children:
       - title: "God is Love"
         url: /christian
-      - title: "잡동사니"
-        url: /tips
       - title: "주절주절"
         url: /chitchat
-      - title: "자린고비"
-        url: /hotdeal
+      - title: "해외원정"
+        url: /expedition
+      - title: "잡동사니"
+        url: /tips
 
   - title: "Links"
     children:
-      - title: "3 Buddies"
-        url: http://veryfaraway.github.io/3buddies
       - title: "주경야근"
         url: http://veryfaraway.github.io/digging
+      - title: "3 Buddies"
+        url: http://veryfaraway.github.io/3buddies
       - title: "Minimal Mistakes Theme"
         url: https://mmistakes.github.io/minimal-mistakes/
