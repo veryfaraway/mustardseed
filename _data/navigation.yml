@@ -12,11 +12,11 @@ main:
 category:
   - title: "Home"
     url: /
-  - title: "Category"
+  - title: "God is Love"
+    url: /christian
+  - title: "FYI"
     url: /categories
     children:
-      - title: "God is Love"
-        url: /christian
       - title: "주절주절"
         url: /chitchat
       - title: "해외원정"

@@ -18,7 +18,7 @@ Amazon은 판매한 물품을 자국뿐만 아니라 전세계 75개국으로 �
 
 |국가|사이트|배송비|
 |---|---|---|
-|<figure style="width: 150px" class="align-center"><img src="http://cfile25.uf.tistory.com/image/193FBC3C4F42633219128B" alt=""><figcaption>미국</figcaption></figure>|[amazon.com](http://amzn.to/2dmdhha)|기본배송료: $4.99<br/>개별배송료: $3.99|
+|<figure style="width: 150px" class="align-center"><img src="http://cfile25.uf.tistory.com/image/193FBC3C4F42633219128B" alt="미국"></figure>|[amazon.com](http://amzn.to/2dmdhha)|기본배송료: $4.99<br/>개별배송료: $3.99|
 |<figure style="width: 150px" class="align-center"><img src="http://cfile22.uf.tistory.com/image/182B70434F4264471E2CE1" alt="캐나다"></figure>|[amazon.ca](http://amzn.to/2e9hS9N)|기본배송료: CDN$ 4.99<br/>개별배송료: CDN$ 2.99|
 |<figure style="width: 150px" class="align-center"><img src="http://cfile7.uf.tistory.com/image/201BF6434F426447312A4B" alt="프랑스"></figure>|[amazon.fr](http://amzn.to/2exIWSG)|기본배송료: EUR 12.0<br/>개별배송료: EUR 1.5|
 |<figure style="width: 150px" class="align-center"><img src="http://cfile2.uf.tistory.com/image/142C67434F4264481CDBCB" alt="독일일"></figure>|[amazon.de](http://amzn.to/2dIlnS4)|고정배송료: EUR 14.0|
