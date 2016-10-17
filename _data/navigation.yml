@@ -10,18 +10,18 @@ main:
     url: /year-archive
 
 category:
-  - title: "Home"
+  - title: '<i class="fa fa-home" aria-hidden="true"></i> Home'
     url: /
-  - title: "God is Love"
+  - title: '<i class="fa fa-book" aria-hidden="true"></i> God is Love'
     url: /christian
   - title: "FYI"
     url: /categories
     children:
-      - title: "주절주절"
+      - title: '<i class="fa fa-comments" aria-hidden="true"></i> 주절주절'
         url: /chitchat
-      - title: "해외원정"
+      - title: '<i class="fa fa-plane" aria-hidden="true"></i> 해외원정'
         url: /expedition
-      - title: "잡동사니"
+      - title: '<i class="fa fa-lightbulb-o" aria-hidden="true"></i> 잡동사니'
         url: /tips
 
   - title: "Links"

@@ -33,5 +33,5 @@ modified: 2016-10-18
 하나님의 권세가 이미 우리에게 있는데도 우리는 밀고 고생하는 패배의 생활을 하고 있지는 않은지 돌아보게 해주는 이야기이다.
 
 
-<cite>윤영준</cite> --- 신발 한 켤레의 사랑
+<i class="fa fa-home" aria-hidden="true"></i> <cite>윤영준</cite> --- 신발 한 켤레의 사랑
 {: .notice}
