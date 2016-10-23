@@ -19,6 +19,8 @@ category:
     children:
       - title: '<i class="fa fa-comments" aria-hidden="true"></i> 주절주절'
         url: /chitchat
+      - title: '<i class="fa fa-child" aria-hidden="true"></i> 껌딱지'
+        url: /nursing
       - title: '<i class="fa fa-plane" aria-hidden="true"></i> 해외원정'
         url: /expedition
       - title: '<i class="fa fa-lightbulb-o" aria-hidden="true"></i> 잡동사니'
@@ -26,9 +28,9 @@ category:
 
   - title: "Links"
     children:
-      - title: "주경야근"
+      - title: '<i class="fa fa-external-link" aria-hidden="true"></i> 주경야근'
         url: http://veryfaraway.github.io/digging
-      - title: "3 Buddies"
+      - title: '<i class="fa fa-external-link" aria-hidden="true"></i> 3 Buddies'
         url: http://veryfaraway.github.io/3buddies
-      - title: "Minimal Mistakes Theme"
+      - title: '<i class="fa fa-external-link" aria-hidden="true"></i> Minimal Mistakes Theme'
         url: https://mmistakes.github.io/minimal-mistakes/
