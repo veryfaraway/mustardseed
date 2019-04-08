@@ -5,8 +5,8 @@ header:
   image: http://d.pr/i/3coN+
   teaser: teaser/clipart_i_can_do_everything_through_him.jpg
 categories: ["christian"]
-tags: ["겨자씨", "실화", "love"]
-keywords: "시동이 안 걸리는 자동차"
+tags: ["겨자씨", "실화", "love", "RICK", "DICK", "HOYT"]
+keywords: "The story of GREAT LOVE"
 modified: 2016-10-18
 ---
 
@@ -14,7 +14,7 @@ modified: 2016-10-18
 촬영장면도 실제 상황입니다.<br/>
 
 <p>
-  <iframe width="640" height="360" src="https://www.youtube.com/embed/RPCkoFledCo" frameborder="0" allowfullscreen></iframe>
+  <iframe width="640" height="360" src="https://youtu.be/Adubrj3yya8" frameborder="0" allowfullscreen></iframe>
 </p>  
 
 아버지의 이름은 Dick이고 아들의 이름은 Rick입니다.<br/>
