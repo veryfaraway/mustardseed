@@ -14,7 +14,7 @@ modified: 2016-10-18
 촬영장면도 실제 상황입니다.<br/>
 
 <p>
-  <iframe width="640" height="360" src="https://www.youtube.com/embed/Adubrj3yya8_0" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Adubrj3yya8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>  
 
 아버지의 이름은 Dick이고 아들의 이름은 Rick입니다.<br/>
